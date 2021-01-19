@@ -1,0 +1,25 @@
+body, th, td, input, select {
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: 8pt;
+	background: #fff;
+	color: #000;
+}
+
+code, pre {
+	font-family: 'Andale Mono', Courier, monospace;
+}
+
+div.subject {
+	font-weight: bold;
+}
+
+div.body {
+}
+
+hr {
+	color: grey;
+}
+
+span.error {
+	color: red;
+}
